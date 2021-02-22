@@ -1,6 +1,12 @@
-I have used React.js, api and just rended the info on the screen  with the api and this is a food_recipe web app.
+I have used React.js, api(edaman) and just rended the info on the screen  with the api and this is a food_recipe web app.
 i have made this is web app while learning the react.js.
 
+
+ **********************************
+ 
+  In the Edaman i have used the Recipe Search API and fetched the data from there( As the user enters the data in the search button).
+  
+ **********************************
 
 ## Available Scripts
 
