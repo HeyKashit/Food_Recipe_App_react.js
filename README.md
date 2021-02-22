@@ -1,3 +1,5 @@
+// i have used React.js, api and just rended the info on the screen  with the api and this is a food_recipe web app.
+// i have made this is web app while learning the react.js.
 
 
 ## Available Scripts
